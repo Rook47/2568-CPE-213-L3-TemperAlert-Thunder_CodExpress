@@ -79,11 +79,7 @@ https://drive.google.com/drive/folders/1EJ-RjSEnCcKYMFGtikMLgeuCsUhLjqVN
 
 📘 Manual Report
 
-กดปุ่มเพื่อสลับโหมด
-
-สังเกตผลลัพธ์บนจอ OLED และไฟ LED
-
-ใช้ Serial Monitor (115200) สำหรับโหมดควิซเพื่อตอบโจทย์
+https://docs.google.com/document/d/1jLCIxW8wU0O_Bc1yD31Tfyex9-7Y2Eo4okXq8bm6VHg/edit?usp=sharing
 
 🛠️ Problem & Solution
 
