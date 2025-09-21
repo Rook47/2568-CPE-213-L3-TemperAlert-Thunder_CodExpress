@@ -74,8 +74,7 @@ Mode 2 (Alert): แจ้งเตือนเมื่ออุณหภูม�
 Mode 3 (Quiz): เกมควิซคิดเลขเร็ว เก็บคะแนน + แสดงประวัติ
 
 🎥 Demonstration VDO
-
-[ลิงก์วิดีโอการทำงาน (YouTube/Drive)]
+https://drive.google.com/drive/folders/1EJ-RjSEnCcKYMFGtikMLgeuCsUhLjqVN
 
 📘 Manual Report
 
