@@ -61,9 +61,8 @@ Display & Alert: แสดงผลบนจอ OLED และควบคุม
 
 
 🔌 Circuit Diagram
-<img width="1565" height="517" alt="image" src="https://github.com/user-attachments/assets/3d8afe4d-8489-48fa-9f06-abfbd904819b" />
+<img width="497" height="670" alt="image" src="https://github.com/user-attachments/assets/992626a6-a0df-446f-959f-a73262b79b33" />
 
-(ใส่วงจรที่ทำใน Fritzing / Tinkercad หรือวาดเอง)
 
 💻 Codes
 
