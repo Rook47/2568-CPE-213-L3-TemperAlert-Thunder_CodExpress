@@ -56,6 +56,7 @@ Display & Alert: แสดงผลบนจอ OLED และควบคุม
 
 🖼️ Block Diagram
 
+<img width="752" height="632" alt="image" src="https://github.com/user-attachments/assets/e6a5aadb-e2dc-47e7-87b5-89cd2feff6eb" />
 
 
 
