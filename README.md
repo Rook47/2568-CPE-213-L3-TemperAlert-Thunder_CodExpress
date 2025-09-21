@@ -56,10 +56,11 @@ Display & Alert: แสดงผลบนจอ OLED และควบคุม
 
 🖼️ Block Diagram
 
-<img width="1565" height="517" alt="image" src="https://github.com/user-attachments/assets/3d8afe4d-8489-48fa-9f06-abfbd904819b" />
+
 
 
 🔌 Circuit Diagram
+<img width="1565" height="517" alt="image" src="https://github.com/user-attachments/assets/3d8afe4d-8489-48fa-9f06-abfbd904819b" />
 
 (ใส่วงจรที่ทำใน Fritzing / Tinkercad หรือวาดเอง)
 
