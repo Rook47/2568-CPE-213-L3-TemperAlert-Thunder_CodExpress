@@ -61,6 +61,10 @@ Display & Alert: แสดงผลบนจอ OLED และควบคุม
 
 
 🔌 Circuit Diagram
+
+<img width="557" height="451" alt="image" src="https://github.com/user-attachments/assets/cbfe0544-d89a-4fc8-b34d-1cbd71a70824" />
+
+
 <img width="497" height="670" alt="image" src="https://github.com/user-attachments/assets/992626a6-a0df-446f-959f-a73262b79b33" />
 
 
