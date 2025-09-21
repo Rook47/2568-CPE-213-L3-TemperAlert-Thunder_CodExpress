@@ -45,4 +45,4 @@ void runMode2() {
   showAlert(highT, highH);
 }
 
-s
+
